@@ -3,9 +3,12 @@
 
 #include "stdafx.h"
 
+using std::cout;
+
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	cout << "Off we go!\n";
 	return 0;
 }
 
